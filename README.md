@@ -28,24 +28,6 @@
 
 ---
 
-## 💻 서비스 구현
-
-**구현 파일 구조**
-
-![image.png](attachment:3635560c-8444-43d2-ba07-e60c99f23111:image.png)
-
-**서비스 실행 후**
-
-![image.png](attachment:c574c8ac-526d-47ac-a23f-a81944b30244:image.png)  
-![image.png](attachment:b91d570c-8b4f-4d31-b58c-1fe88ddabd42:image.png)  
-![image.png](attachment:b6c0ce6f-905b-4d63-98de-e9844a45f295:image.png)
-
-**정리 결과 로그**
-
-![image.png](attachment:9ea4de44-bd6b-4c8b-b234-b310f2a9bb82:image.png)
-
----
-
 ## 🎯 결과
 
 - `.bat` 파일로 더블 클릭 한 번에 정리 가능  
